@@ -1,0 +1,11 @@
+{
+	"id": "lifeos-pro",
+	"name": "LifeOS Pro",
+	"version": "2.0.0",
+	"minAppVersion": "1.5.7",
+	"description": "Life management system(Assist in practicing the theme notes with periodic notes and usememos).",
+	"author": "YiBing Lin",
+	"authorUrl": "https://quanru.github.io",
+	"fundingUrl": "https://www.buymeacoffee.com/leyang",
+	"isDesktopOnly": false
+}
